@@ -15,6 +15,6 @@ Take webcam shots from target just sending a malicious link
 ```
 git clone https://github.com/rohjas/rohjas
 cd rohjas
-bash rohjas.sh
-```
+sudo bash rohjas.sh  (or) ./rohjas.sh
+
 
